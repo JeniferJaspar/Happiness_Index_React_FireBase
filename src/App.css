@@ -1,0 +1,66 @@
+body {
+  background-color: #fafafa;
+  display: inline-flex  ;
+  justify-content: center;
+  align-content: center;
+  width: 100%;
+  align-items: center;
+  height: 100vh;
+  color: rgb(19, 18, 22);
+  font-size: medium;
+  font-style: inherit;
+  }
+  
+.container{
+
+  background-color: #fafafa;
+  display:block ;
+  justify-content: center;
+  align-content: left;
+  width: 100%;
+  align-items: left;
+  height: 100vh;
+  color: rgb(19, 18, 22);
+  font-size: medium;
+  font-style: inherit;
+
+}
+.box {
+  margin-top: 1px;
+  border: 1px solid #570a53;
+  background-color: rgb(89, 190, 230);
+}
+
+.g-btn {
+  width: 100% !important;
+  height: 40px !important;
+  line-height: 40px !important;
+  font-size: 15px !important;
+}
+.welcome-text
+{
+  margin-top: 1px;
+  justify-content: first baseline;
+  text-align: center;
+  font-size: 35px;
+  font-weight: 100;
+  font-family: "Exo", sans-serif;
+	color: rgb(12, 10, 10);
+}
+.title{
+
+  margin-top: 1px;
+  text-align: left;
+  font-size: 1  5px;
+  font-family: "Exo", sans-serif;
+	color: rgb(12, 10, 10);
+
+}
+
+.g-btn > div,
+.g-btn > div > svg {
+  width: 20px !important;
+  height: 18px !important;
+}
+
+
